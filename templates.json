@@ -6152,7 +6152,7 @@
         "Familyappserver"
       ],
       "description": "Shiori is a simple bookmarks manager written in Go language. Intended as a simple clone of Pocket. You can use it as command line application or as web application.",
-      "image": "radhifadlillah/shiori:latest",
+      "image": "ghcr.io/go-shiori/shiori:v1.7.1-10-g6ccd64f",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/shiori-icon.png",
       "name": "shiori",
       "platform": "linux",
